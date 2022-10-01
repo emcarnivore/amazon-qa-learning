@@ -21,6 +21,3 @@
 5. Right click on "chromdriver" file
 6. Click "open"
 7. Update Chrome Browser
-
-
-TEST CHANGES!!!
