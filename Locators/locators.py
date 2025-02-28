@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 
+# NOTE: Due to the nature of front-end development locators may change and need to be updated.
 
 # Class for main page locators
 class MainPageLocators(object):
