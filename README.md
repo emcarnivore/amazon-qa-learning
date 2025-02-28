@@ -7,9 +7,9 @@
 1. `brew install python3`
 2. `brew upgrade python3`
 
-### PIP
-1. `cd /Users/nic/Documents/code/amazon-tests`
-2. `python3 -m pip install -r requirements.txt`
-
 ### ChromeDriver
 1. `brew install --cask chromedriver`
+
+### Requirements
+1. `cd /Users/nic/Documents/code/amazon-tests`
+2. `python3 -m pip install -r requirements.txt`
