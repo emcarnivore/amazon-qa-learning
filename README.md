@@ -3,6 +3,9 @@
 ### Homebrew
 1. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
+### Git
+1. `brew install git`
+
 ### Python
 1. `brew install python3`
 2. `brew upgrade python3`
